@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/jacobsandersen/microformats2/compare/v0.1.2...v0.1.3) (2026-10-29)
+
+
+### Miscellaneous Chores
+
+* publish packages from jacobsandersen ([#5](https://github.com/jacobsandersen/microformats2/issues/5)) ([4a51ee6](https://github.com/jacobsandersen/microformats2/commit/4a51ee66333d81ebbb1f455a05efed9cd0e3303f))
+
 ## [0.1.2](https://github.com/Marchland/microformats2/compare/v0.1.1...v0.1.2) (2026-10-06)
 
 
